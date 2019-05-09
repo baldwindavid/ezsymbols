@@ -9,6 +9,14 @@ The layout is QWERTY with all symbols and numbers switched such that typing numb
 - `}` and `*`
 - `:` and `;`
 
+### Base Layout
+
+![base layout](https://github.com/baldwindavid/ezsymbols/blob/master/unshifted-layout.png)
+
+### Shifted Layout
+
+![shifted layout](https://github.com/baldwindavid/ezsymbols/blob/master/shifted-layout.png)
+
 ## Installation
 
 - Copy `ezsymbols.bundle` to `~/Library/Keyboard Layouts/`
